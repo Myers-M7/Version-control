@@ -1,2 +1,2 @@
 # Version-control
-repositories to learn about version control.
+repository to learn about version control.
